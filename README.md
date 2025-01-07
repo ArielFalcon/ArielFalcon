@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Here you'll find some of my free-time projects. Nothing too fancy.
 
 - 👨‍💻 I work with `Angular` and `Vue`.
-- 📚 Always exploring new tech, and I'm really into **Astro** right now.
-- 🌱 Currently learning **backend development** and diving into **AWS**.
+- 📚 Always exploring new tech, really into **Astro** right now.
+- 🌱 Currently learning **backend** and **AWS**.
 - ✨ Check out my work on my [Portfolio](https://arielfalcon.me).
 
 ``` rust
