@@ -1,11 +1,11 @@
-# Hi, I'm Ariel Falcon 👋
+# Hi, I'm Ariel Falcon, Front-end dev. 👋
 
-Welcome to my GitHub profile! Here you'll find some of my projects and work.
+Welcome to my GitHub profile! Here you'll find some of my free-time projects. Nothing too fancy.
 
-- 👨‍💻 I work with **Angular** and **Vue** for frontend development.
-- 📚 I'm always exploring new tech, and I'm really into **Astro** right now.
+- 👨‍💻 I work with `Angular` and `Vue`.
+- 📚 Always exploring new tech, and I'm really into **Astro** right now.
 - 🌱 Currently learning **backend development** and diving into **AWS**.
-- ✨ Check out my projects on my [Portfolio](https://arielfalcon.me).
+- ✨ Check out my work on my [Portfolio](https://arielfalcon.me).
 
 ``` rust
        `!> !!!!                   ;<!'
