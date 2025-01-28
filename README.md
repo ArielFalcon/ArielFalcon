@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n%20-%230D67D5.svg?style=for-the-badge&logo=i18next&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
