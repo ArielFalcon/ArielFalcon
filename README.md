@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 
 - 👨‍💻 I work with `Angular` and `Vue`.
 - 📚 Always exploring new tech, really into **Astro** right now.
-- 🌱 Currently learning **backend** and **AWS**.
+- 🌱 Currently learning **Back-end (Java/Spring/RDB/DDD)** and **AWS**.
 - ✨ Check out my work on my [Portfolio](https://arielfalcon.me).
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
