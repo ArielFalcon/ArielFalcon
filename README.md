@@ -20,9 +20,12 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular%20-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![RxJS](https://img.shields.io/badge/RxJS%20-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=green)
+![Vue](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=green)
+![Pinia](https://img.shields.io/badge/Pinia-%23FFD859.svg?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
@@ -37,7 +40,6 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-
 
 </p>
 
