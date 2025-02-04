@@ -19,6 +19,7 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular%20-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS%20-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=green)
