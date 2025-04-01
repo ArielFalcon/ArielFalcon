@@ -27,6 +27,9 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![Vue](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=green)
 ![Pinia](https://img.shields.io/badge/Pinia-%23FFD859.svg?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n%20-%230D67D5.svg?style=for-the-badge&logo=i18next&logoColor=white)
@@ -42,8 +45,7 @@ Welcome to my GitHub profile! Here you'll find some of my free-time projects. No
 ![Jira](https://img.shields.io/badge/Jira%20-%230A0A3F.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 </p>
 
 <br>
