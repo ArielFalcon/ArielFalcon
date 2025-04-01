@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! Here you'll find some of my free-time projects. Nothing too fancy.
 
-- 👨‍💻 I work with `Angular` and `JAVA`.
+- 👨‍💻 I work with `Angular` and `Java`.
 - 📚 Always exploring new tech, really into **Astro** right now.
 - 🌱 Currently learning **Back-end (Java / Spring / DDBB / DDD / Architecture / Patron Design)** and **AWS**.
 - ✨ Check out my work on my [Portfolio](https://arielfalcon.me).
